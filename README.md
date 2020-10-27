@@ -5,17 +5,17 @@ Generate student score data for quiz and assignments with the intention of testi
 I highly recommend anaconda virtual environment for this, or any python project, since anaconda automatically configures the correct(conflict free) version numbers for python libraries.
 
 
-random
-urllib
-warnings
-pandas as pd
-numpy as np
-time
-faker
-matplotlib
-scipy
-datetime
-seaborn
+1. random 
+2. urllib
+3. warnings
+4. pandas
+5. numpy
+6. time
+7. faker
+8. matplotlib
+9. scipy
+10. datetime
+11. seaborn
 
 
 # how to run
