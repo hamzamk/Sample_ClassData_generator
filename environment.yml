@@ -1,0 +1,13 @@
+name: datavis
+
+dependencies:
+  - python=3.6
+  - pip
+  - matplotlib
+  - faker
+  - numpy
+  - pandas
+  - seaborn
+  - jupyter
+  - scipy
+  
