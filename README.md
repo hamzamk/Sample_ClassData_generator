@@ -1,10 +1,10 @@
-# Project description
+## Project description
 Generate student score data for quiz and assignments for testing various data visualization techniques. The data is generated using beta distribution, with one assumption(s) that the scores are between 0 - 100 and the avearge time spent on each quiz(and time of submisstion) by a student is random(as sampled from a normal distribution).   
 
-# Installation Requirements
+## Installation Requirements
 I highly recommend anaconda virtual environment for this, or any python project, since anaconda automatically configures the correct(conflict free) version numbers for python libraries. check the required imports in environment.yml file. 
 
-# how to run
+## how to run
 follow the steps to run the project: 
 
 1. Install anaconda (https://docs.anaconda.com/anaconda/install/)
